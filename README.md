@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premkpavuluri" alt="premkpavuluri" /></a> </p>
 
-- 🔭 I’m currently working on **Web develpoment**
+- 🔭 I’m currently working at **ThoughtWorks Technologies India**
 
 - 🌱 I’m currently learning **Kotlin, Spring boot, React, Docker**
 
