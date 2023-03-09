@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Kotlin, Spring boot, React, Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/premkpavuluri](https://github.com/premkpavuluri)
-
-- 📝 I regularly write articles on [premkpavuluri.github.io](premkpavuluri.github.io)
+- 📝 I regularly write articles on [premkpavuluri.github.io](https://premkpavuluri.github.io/)
 
 - 💬 Ask me about **node, Java, Spring boot, Kotlin**
 
